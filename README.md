@@ -6,8 +6,8 @@ Bring back kali shell to other linux distros!
 
 If you like Kali zsh and want to use it in other distros, this tool for you!
 
-[![asciicast](_img/before.jpeg)]
-[![asciicast](_img/after.jpeg)]
+![asciicast](_img/before.jpeg)
+![asciicast](_img/after.jpeg)
 
 ## Getting Started
 
