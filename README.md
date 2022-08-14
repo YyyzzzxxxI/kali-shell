@@ -6,6 +6,9 @@ Bring back kali shell to other linux distros!
 
 If you like Kali zsh and want to use it in other distros, this tool for you!
 
+[![asciicast](_img/before.jpeg)]
+[![asciicast](_img/after.jpeg)]
+
 ## Getting Started
 
 ### Dependencies
@@ -20,7 +23,7 @@ For other distros just google :)
 ### Installing
 
 ```
-git clone https://github.com/kali-shell
+git clone https://github.com/YyyzzzxxxI/kali-shell
 cd kali-shell
 chmod +x install.sh
 ./install.sh
